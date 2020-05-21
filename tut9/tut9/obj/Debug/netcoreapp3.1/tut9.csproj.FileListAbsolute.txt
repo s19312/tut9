@@ -52,3 +52,12 @@ C:\Users\Ego\Desktop\tut9\tut9\tut9\bin\Debug\netcoreapp3.1\runtimes\unix\lib\ne
 C:\Users\Ego\Desktop\tut9\tut9\tut9\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
 C:\Users\Ego\Desktop\tut9\tut9\tut9\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Ego\Desktop\tut9\tut9\tut9\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ego\Desktop\tut9\tut9\tut9\bin\Debug\netcoreapp3.1\tut9.deps.json
+C:\Users\Ego\Desktop\tut9\tut9\tut9\bin\Debug\netcoreapp3.1\tut9.runtimeconfig.json
+C:\Users\Ego\Desktop\tut9\tut9\tut9\bin\Debug\netcoreapp3.1\tut9.runtimeconfig.dev.json
+C:\Users\Ego\Desktop\tut9\tut9\tut9\bin\Debug\netcoreapp3.1\tut9.dll
+C:\Users\Ego\Desktop\tut9\tut9\tut9\bin\Debug\netcoreapp3.1\tut9.pdb
+C:\Users\Ego\Desktop\tut9\tut9\tut9\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ego\Desktop\tut9\tut9\tut9\obj\Debug\netcoreapp3.1\tut9.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ego\Desktop\tut9\tut9\tut9\obj\Debug\netcoreapp3.1\tut9.dll
+C:\Users\Ego\Desktop\tut9\tut9\tut9\obj\Debug\netcoreapp3.1\tut9.pdb
