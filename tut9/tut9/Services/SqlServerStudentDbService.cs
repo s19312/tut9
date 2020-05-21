@@ -110,12 +110,14 @@ namespace tut9.Services
                     $"The last enrolled student has IndexNumber : {context.Student.OrderBy(s1 => s1.IndexNumber).Select(s => s.IndexNumber).Last().ToString()}");
             }
 
-            
+                     
             newStudent.IndexNumber = enrollStudent.IndexNumber;
             newStudent.FirstName = enrollStudent.FirstName;
             newStudent.LastName = enrollStudent.LastName;
             newStudent.BirthDate = enrollStudent.BirthDate;
             newStudent.IdEnrollment = newEnroll.IdEnrollment;
+
+            //context.Enrollment.Add(newEnroll);
             newStudent.IdEnrollmentNavigation = newEnroll;
 
             //Checks if such a Student exists
